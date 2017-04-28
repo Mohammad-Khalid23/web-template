@@ -1,0 +1,90 @@
+body{
+margin: 0;
+
+}
+
+/******Header********/
+
+#home,#portfolio,#About,#Contact,footer{
+
+    border: 2px solid black;
+    padding: 40px;
+}
+.header{
+    width: 100%;
+    margin: 0;
+     background-color: rgb(44, 62, 80);
+     height:100px;
+
+}
+.main{
+    margin: 0 auto;
+}
+ .logo{
+  float: left;
+  color: #ffffff;
+    }
+li{
+    list-style: none;
+    margin: 5px;
+    display: inline-block;
+    float: right;
+    padding:10px;
+}
+
+.profile_img{
+        display: block;
+    margin: 0 auto;
+}
+ 
+ header{
+    
+ }
+
+
+h1,h4{
+    text-align: center;
+}
+
+#home , #About{
+    background-color: rgb(24, 188, 156)
+}
+
+
+/*********Portfolio*********/
+#portfolio{
+    width: 100%;
+}
+ .portfolio-img{
+    width: 370px;
+    height: 300px;
+    padding: 5px;
+}
+#portfolio h1{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.portfolio-div{
+    width: 1000px;
+    margin: 0 auto;
+}
+
+
+
+/******About********/
+p{
+    width: 400px;
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+    line-height: 25px;
+    color: #ffffff;
+    font-size: 120%;
+}
+#About h1{
+    color: #ffffff;
+}
+
+/******Contact********/
+
+
+/******Footer********/
